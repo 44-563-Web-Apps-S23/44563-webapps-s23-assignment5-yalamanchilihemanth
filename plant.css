@@ -1,0 +1,30 @@
+.thead{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color:palegreen;
+}
+table,th,td{
+    border: 3px;
+}
+tr:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+.Y{
+    background-color: aquamarine;
+}
+.A{
+    background-color: aqua;
+}
+.L{
+    background-color: lightpink;
+}
+.Aa{
+    background-color: darkgray;
+}
+.M{
+    background-color: slateblue;
+}
+.Aaa{
+    background-color: khaki;
+}
